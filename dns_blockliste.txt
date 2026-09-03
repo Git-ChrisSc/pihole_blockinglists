@@ -1,0 +1,9 @@
+# Microsoft tracking and spaming-domains
+0.0.0.0 self.events.data.microsoft.com
+0.0.0.0 edge.microsoft.com
+0.0.0.0 a-ring-fallback.msedge.net
+0.0.0.0 fp-afdx-bpdee4gtg6frejfd.z01.azurefd.net
+0.0.0.0 (^|\.)azurefd\.net$
+0.0.0.0 doubleclick.net
+0.0.0.0 img-s-msn-com.akamaized.net
+0.0.0.0 r.msftstatic.com
